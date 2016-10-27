@@ -15,7 +15,7 @@ for(i=1;i<=no;i++)
 {
 	fact=fact*i;
 }
-System.out.println("factorial "+fact);
+System.out.println("factorial is "+fact);
 }
 Catch(Exception e)
  { 
