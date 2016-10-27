@@ -14,6 +14,6 @@ for(i=1;i<=no;i++)
 {
 	fact=fact*i
 }
-System.Out.println("factorial",fact)
+System.Out.println("factorial",+fact)
 }
 }
