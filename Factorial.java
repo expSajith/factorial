@@ -10,6 +10,7 @@ n=br.readLine();
 int no=Integer.parseInt(n);
 int fact=1;
 int i=1;
+// dhcfef
 try{
 for(i=1;i<=no;i++)
 {
@@ -21,5 +22,6 @@ Catch(Exception e)
  { 
 	 
  }
+System.Out.println("factorial",+fact);
 }
 }
